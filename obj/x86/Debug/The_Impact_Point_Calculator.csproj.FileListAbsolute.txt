@@ -1,0 +1,14 @@
+I:\FonamentsProgramacio\MIS_SOLUCIONES\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\bin\Debug\The_Impact_Point_Calculator.exe
+I:\FonamentsProgramacio\MIS_SOLUCIONES\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\bin\Debug\The_Impact_Point_Calculator.pdb
+I:\FonamentsProgramacio\MIS_SOLUCIONES\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\obj\x86\Debug\The_Impact_Point_Calculator.exe
+I:\FonamentsProgramacio\MIS_SOLUCIONES\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\obj\x86\Debug\The_Impact_Point_Calculator.pdb
+C:\Users\Daniel Moreno\Documents\1_T1\FonamentsProgramacio\PA-1\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\bin\Debug\The_Impact_Point_Calculator.exe
+C:\Users\Daniel Moreno\Documents\1_T1\FonamentsProgramacio\PA-1\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\bin\Debug\The_Impact_Point_Calculator.pdb
+C:\Users\Daniel Moreno\Documents\1_T1\FonamentsProgramacio\PA-1\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\obj\x86\Debug\The_Impact_Point_Calculator.exe
+C:\Users\Daniel Moreno\Documents\1_T1\FonamentsProgramacio\PA-1\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\obj\x86\Debug\The_Impact_Point_Calculator.pdb
+C:\Users\Daniel\Desktop\PA-1\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\bin\Debug\The_Impact_Point_Calculator.exe
+C:\Users\Daniel\Desktop\PA-1\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\bin\Debug\The_Impact_Point_Calculator.pdb
+C:\Users\Daniel\Desktop\PA-1\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\obj\x86\Debug\The_Impact_Point_Calculator.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\PA-1\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\obj\x86\Debug\The_Impact_Point_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\PA-1\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\obj\x86\Debug\The_Impact_Point_Calculator.exe
+C:\Users\Daniel\Desktop\PA-1\Moreno_Bernal_Daniel\The_Impact_Point_Calculator\obj\x86\Debug\The_Impact_Point_Calculator.pdb
